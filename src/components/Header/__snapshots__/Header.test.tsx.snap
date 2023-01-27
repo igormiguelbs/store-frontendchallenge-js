@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Header should render component correctly 1`] = `
+<div
+  className="sc-bcXHqe fPcNxG"
+>
+  <h1>
+    MKS 
+    <span>
+      Sistemas
+    </span>
+  </h1>
+</div>
+`;
