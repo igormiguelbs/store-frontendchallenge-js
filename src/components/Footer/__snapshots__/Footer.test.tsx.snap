@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Footer should render component correctly 1`] = `
+<div
+  className="sc-bcXHqe eoSokX"
+>
+  <p>
+    MKS sistemas © Todos os direitos reservados
+  </p>
+</div>
+`;
